@@ -13,7 +13,7 @@ Usage:
 例如：
 
     python timeline.py 'Oct 1 2013' 'Apr 30 2014' '08:00-09:40' '10:10-11:50' '14:00-15:35' '15:55-17:30' '18:30-21:50' > timeline_hust
-    python timeline.py 'May 1' 'Sep 30' '08:00-09:40' '10:10-11:50' '14:30-16:05' '16:25-18:00' '19:00-22:20' > timeline_hust
+    python timeline.py 'May 1' 'Sep 30' '08:00-09:40' '10:10-11:50' '14:30-16:05' '16:25-18:00' '19:00-22:20' >> timeline_hust
 
 ## generate-csv.py 用來生成日曆 csv
 
